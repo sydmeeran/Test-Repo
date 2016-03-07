@@ -1,2 +1,7 @@
 # Test-Repo
-This is my test repo
+
+## Description:
+A simple test repo to practice github
+
+<h3>Why this Repo?</h3>
+
